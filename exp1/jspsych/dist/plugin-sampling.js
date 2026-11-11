@@ -5,6 +5,7 @@ var sampling_trials = (function (jspsych) {
     name: "sampling_trials",
     version: "0.0.1",
     parameters: {
+      
         words: {
             type: jspsych.ParameterType.COMPLEX,
             array: true,
